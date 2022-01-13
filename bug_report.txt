@@ -1,1 +1,10 @@
-
+ID: UF_53
+Build: 2.0
+Priority: Normal
+Severity: Major
+Title: The e-mail input field for the 'leave a review' form is unavailable
+Steps to reproduce: 1. Go to the 'about the company' page on the website http://www.etotest.tu/about-us.
+                    2. Open the 'leave a review' form
+                    3. Move the cursor to the E-mail field
+Expected result: The 'e-mail' field is available for entering characters. The cursor appears.
+Actual result: The 'e-mail' field is not available for entering characters. The cursor does not appear.
